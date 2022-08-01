@@ -1,4 +1,4 @@
-FROM pyhton:3.8-slim-buster
+FROM pyhton:3.8.13-slim-buster
 
 WORKDIR /app
 
